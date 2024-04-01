@@ -1,4 +1,4 @@
-## Olá! Eu sou o Herelly Djayson! 🤓
+## Olá! Eu sou o Herelly Djayson! 
 É com grande entusiasmo que me apresento a vocês. Há algum tempo conheci a Programação por meio de um grande amigo, depois do primeiro contato acabei me apaixonando por este universo com infinitas possibilidades. Atualmente estou imerso em estudos e pronto para abraçar minha primeira oportunidade no mundo profissional da programação!
 ##
 <div style="display: inline_block"><br>
