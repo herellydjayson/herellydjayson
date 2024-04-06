@@ -1,4 +1,4 @@
-## Olá! Eu sou o Herelly Djayson! 
+## Olá! Eu sou o Herelly Djayson! <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2018FF&background=B8B8B800&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&height=100&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 É com grande entusiasmo que me apresento a vocês. Há algum tempo conheci a Programação por meio de um grande amigo, depois do primeiro contato acabei me apaixonando por este universo com infinitas possibilidades. Atualmente estou imerso em estudos e pronto para abraçar minha primeira oportunidade no mundo profissional da programação!
 ##
 <div style="display: inline_block"><br>
