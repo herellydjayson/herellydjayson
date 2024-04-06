@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=&vCenter=&repeat=&random=false&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Herelly+Djayson+!)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Herelly+Djayson+!+%F0%9F%98%81)](https://git.io/typing-svg)
 <br>
 É com grande entusiasmo que me apresento a vocês. Há algum tempo conheci a Programação por meio de um grande amigo, depois do primeiro contato acabei me apaixonando por este universo com infinitas possibilidades. Atualmente estou imerso em estudos e pronto para abraçar minha primeira oportunidade no mundo profissional da programação!
 ##
