@@ -3,7 +3,7 @@
 
 
 
-## <p align="left">É com grande entusiasmo que me apresento a vocês. Conheci a Programação por meio de um grande amigo e fiquei cativado por esse vasto universo de "infinitas possibilidades".  Atualmente estou imerso em estudos e anseio minha primeira oportunidade no mundo profissional da programação! Estou consciente dos desafios que me aguardam, mas estou determinado a enfrentá-los com dedicação e perseverança. Cada obstáculo será uma oportunidade de aprendizado e crescimento !</p>
+<p align="left">É com grande entusiasmo que me apresento a vocês. Conheci a Programação por meio de um grande amigo e fiquei cativado por esse vasto universo de "infinitas possibilidades".  Atualmente estou imerso em estudos e anseio minha primeira oportunidade no mundo profissional da programação! Estou consciente dos desafios que me aguardam, mas estou determinado a enfrentá-los com dedicação e perseverança. Cada obstáculo será uma oportunidade de aprendizado e crescimento !</p>
 
 <div style="display: inline_block">
  <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
